@@ -1,10 +1,4 @@
 # testApp3
-testapp3 shows how to integrate paystack into ionic 3 project using an external api
-
-# how Use These Project
-- clone the repository
-- run npm install from the command line
-- make such you have created an account on paystack
-- use the public test key gotten from paystack to test how online payment works
+testapp3 shows how add swipe gesture to Ionic 3 and Angular 5 tabs with transition animation.  Telerik Native Page Transition plugin is used for making the animation to the tabs change and also to enable testing on the real device.
 
 # Happy coding 
